@@ -1,21 +1,33 @@
-## Meeting Mystery: Round 2
+## Galvanize Lunch
 
-To successfully complete this drill, you need to facilitate a meeting that includes every participant _and_ solves a mystery. The meeting you run should have least 3 participants, and last 5 minutes or less. As the facilitator, you are required to post and annouce the meeting agenda and ensure that every partcipant has an opportunity to contribute to the discussion. 
+To successfully complete this drill, you need to facilitate a meeting that includes every participant and makes some important decisions about lunch. 
 
-Before the meeting, participants should pick roles and a mystery. Don't tell the person facilitating the meeting. 
+You need 5 people:
 
-Roles: 
-- A quiet person who doesn’t say anything unless asked 
-- A person who talks a lot 
-- A remote team member (this person should call into the meeting using Google Meet, or another video conferencing platform)
-- A 'know it all' 
-- Someone with imposter syndrome: they have good ideas, but they end every thought with, "... but I don't actually know." 
+* The facilitator
+* 3 participants
+* An observer, who will keep "score" on the [rubric](rubric.md)
 
+The observer should randomly assign roles to the participants:
 
-Agenda Topics and Mystery Solutions 
+* [Aaron](aaron.md)
+* [Berto](berto.md)
+* [Cass](cass.md)
+* [Danny](danny.md)
+* [Erin](erin.md)
 
+You should use your real names during the meeting, but follow the instructions for your role. The observer should keep track of who is in the meeting, and whether or not the facilitator reached an acceptable conclusion inside the parameters of the game.
 
+The meeting should have 3 topics:
 
+1. What to eat for lunch
+2. Where to go
+3. When to leave
 
+The facilitator needs to:
 
-Video record the meeting and submit [your video here](). 
+* Post an agenda
+* Lead the group to an acceptable decision about all three topics within 5 minutes
+* Solicit partication from everyone during each round
+
+If the facilitator makes an error, the observer should stop them at the end of the round and start over from the beginning of the game with new roles.
